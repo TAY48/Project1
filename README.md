@@ -1,1 +1,1 @@
-Syler helped me and did 1% of the work
+A imitation of the JW.org which was for a school project.
